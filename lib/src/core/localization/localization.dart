@@ -45,7 +45,7 @@ final class Localization extends GeneratedLocalization {
 
     if (const AppLocalizationDelegate().isSupported(locale)) return locale;
 
-    return const Locale('en');
+    return const Locale('ru');
   }
 
   /// Obtain [Localization] instance from [BuildContext].

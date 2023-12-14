@@ -1,0 +1,9 @@
+{
+    "appTitle": "sizzle_starter",
+    "@appTitle": {
+        "description": "The title of the application"
+    },
+    "custom_colors": "Кастомные цвета",
+    "default_themes": "Темы по-умолчанию",
+    "locales": "Языки"
+}
